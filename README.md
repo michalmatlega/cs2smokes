@@ -1,6 +1,6 @@
 Put files here
 ```
-<steamfolder>\steamapps\common\Counter-Strike Global Offensive\game\csgo\annotations
+<steamfolder>\steamapps\common\Counter-Strike Global Offensive\game\csgo\annotations\local
 ```
 In game run commands (inferno example)
 ```
